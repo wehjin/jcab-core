@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["jcab_core"] = [{"text":"impl Freeze for <a class=\"struct\" href=\"jcab_core/struct.LessonPart.html\" title=\"struct jcab_core::LessonPart\">LessonPart</a>","synthetic":true,"types":["jcab_core::lesson_part::LessonPart"]},{"text":"impl Freeze for <a class=\"enum\" href=\"jcab_core/enum.SpeechPart.html\" title=\"enum jcab_core::SpeechPart\">SpeechPart</a>","synthetic":true,"types":["jcab_core::speech_part::SpeechPart"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

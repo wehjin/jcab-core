@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["jcab_core"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/clone/trait.Clone.html\" title=\"trait core::clone::Clone\">Clone</a> for <a class=\"enum\" href=\"jcab_core/enum.SpeechPart.html\" title=\"enum jcab_core::SpeechPart\">SpeechPart</a>","synthetic":false,"types":["jcab_core::speech_part::SpeechPart"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

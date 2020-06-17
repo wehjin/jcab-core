@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["NAME","The name of the vocabulary"]],"fn":[["create","Creates a new vocabulary"],["create_if_none","Creates the first vocabulary. If a vocabulary already exists, returns its id."],["read","Finds an existing vocabulary"]]});

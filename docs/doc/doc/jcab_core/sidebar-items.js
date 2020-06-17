@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["SpeechPart",""]],"mod":[["lesson","Lesson points and functions"],["vocabulary","Vocabulary points and functions"]],"struct":[["LessonPart",""]]});
