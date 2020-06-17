@@ -1,4 +1,4 @@
-//! Vocabulary points and functions
+//! Vocabulary model
 use std::io;
 
 use echo_lib::{Chamber, Echo, ObjectId, Point, Target};
